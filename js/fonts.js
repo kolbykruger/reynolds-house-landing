@@ -4,7 +4,7 @@
         sessionStorage.fonts = true;
       },
       google: {
-        families: ['Open+Sans:300,400,400i,500,600,700']
+        families: ['Unna:400,400i,700,700i']
       },
       timeout: 2000
     };
